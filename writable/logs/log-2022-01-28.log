@@ -1,0 +1,66 @@
+INFO - 2022-01-28 00:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 00:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 04:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 04:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 04:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 05:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 16:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-01-28 21:58:43 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-01-28 21:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-01-28 21:59:03 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-01-28 21:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 21:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 22:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 22:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-01-28 22:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-01-28 22:55:40 --> move_uploaded_file(uploads/foto/1.jpeg): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /app/app/Helpers/base_helper.php(246): move_uploaded_file()
+#2 /app/app/Controllers/Module/Master.php(49): do_uploaded_file()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Module\Master->simpan_unit()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-01-28 22:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-01-28 22:55:46 --> move_uploaded_file(uploads/foto/1.jpeg): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /app/app/Helpers/base_helper.php(246): move_uploaded_file()
+#2 /app/app/Controllers/Module/Master.php(49): do_uploaded_file()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Module\Master->simpan_unit()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-01-28 22:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-01-28 22:56:43 --> move_uploaded_file(uploads/foto/1.jpeg): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /app/app/Helpers/base_helper.php(246): move_uploaded_file()
+#2 /app/app/Controllers/Module/Master.php(49): do_uploaded_file()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Module\Master->simpan_unit()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,77 @@
+INFO - 2021-12-11 01:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-11 01:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-11 01:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-11 06:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-11 08:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-11 12:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-11 12:24:22 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-11 12:24:22 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-11 12:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-11 12:38:22 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-11 12:38:22 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-11 17:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-11 17:37:52 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-11 17:37:52 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(225): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-11 21:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-11 21:12:20 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-11 21:12:20 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(225): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-11 22:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-11 22:19:31 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-11 22:19:31 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-11 22:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-11 22:25:52 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-11 22:25:52 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

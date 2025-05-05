@@ -1,0 +1,4 @@
+CRITICAL - 2024-10-04 05:34:01 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(36): require('C:\\xampp\\htdocs...')
+#2 {main}

@@ -1,0 +1,913 @@
+INFO - 2022-11-27 00:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 00:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 01:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 01:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 01:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 01:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 01:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 01:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 02:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 04:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 04:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 04:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 04:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 05:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 05:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 05:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 05:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 05:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 05:24:00 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-11-27 06:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 06:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 07:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 08:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 08:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 08:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 08:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 08:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 08:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 09:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:39:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 10:58:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 11:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 11:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 12:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 12:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 12:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 14:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 15:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 16:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 16:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 16:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 17:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 18:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 19:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 20:45:24 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-11-27 20:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 20:45:26 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-11-27 20:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 20:52:32 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-11-27 20:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 20:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 21:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(24): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(30): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(36): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(42): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(48): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:12:41 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(54): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:12:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:12:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(281): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(302): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:17 --> mysqli_sql_exception: Table 'sibekisar_apps.m_unit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(42): App\Models\MasterModel->findMUnit()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(65): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(71): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(77): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(83): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(89): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(95): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:30 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(101): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:32 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:32 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(281): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(302): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:46 --> mysqli_sql_exception: Table 'sibekisar_apps.m_indikator' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:46 --> mysqli_sql_exception: Table 'sibekisar_apps.m_unit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(55): App\Models\MasterModel->findMUnit()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:47 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:54 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:56 --> mysqli_sql_exception: Table 'sibekisar_apps.m_indikator' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:13:56 --> mysqli_sql_exception: Table 'sibekisar_apps.m_unit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(55): App\Models\MasterModel->findMUnit()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:13:57 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:14:14 --> mysqli_sql_exception: Table 'sibekisar_apps.m_indikator' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 21:14:14 --> mysqli_sql_exception: Table 'sibekisar_apps.m_unit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(55): App\Models\MasterModel->findMUnit()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:14:15 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 21:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 21:14:27 --> mysqli_sql_exception: Table 'sibekisar_apps.m_unit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/MasterModel.php(60): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Read.php(42): App\Models\MasterModel->findMUnit()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(24): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(30): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(36): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(42): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(48): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(54): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(24): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(30): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(36): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(42): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(48): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(54): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:46 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(281): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(302): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(24): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(30): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(36): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(42): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(48): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(280): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Home.php(54): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_spirit' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-11-27 22:05:52 --> mysqli_sql_exception: Table 'sibekisar_apps.vw_rekap_by_aspek' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/EvaluasiModel.php(281): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Apps.php(302): App\Models\EvaluasiModel->findCettarAspek()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 22:05:56 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-11-27 22:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 22:05:58 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+ERROR - 2022-11-27 22:05:58 --> mysqli_sql_exception: Table 'sibekisar_apps.coms_user' doesn't exist in /app/system/Database/MySQLi/Connection.php:314
+Stack trace:
+#0 /app/system/Database/MySQLi/Connection.php(314): mysqli->query()
+#1 /app/system/Database/BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /app/system/Database/BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#4 /app/app/Models/AuthModel.php(34): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/app/Controllers/Auth.php(35): App\Models\AuthModel->find()
+#6 /app/system/CodeIgniter.php(936): App\Controllers\Auth->dologin()
+#7 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#8 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-11-27 22:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2022-11-27 22:06:00 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2022-11-27 22:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 22:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 22:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 22:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 22:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 22:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-11-27 22:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

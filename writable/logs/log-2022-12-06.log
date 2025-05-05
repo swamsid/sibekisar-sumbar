@@ -1,0 +1,552 @@
+INFO - 2022-12-06 00:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 00:51:35 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 00:51:35 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 01:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 01:09:29 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 01:09:29 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 01:15:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 01:15:11 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 01:15:11 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 01:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 01:59:32 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 01:59:32 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 02:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 02:22:47 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 02:22:47 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 02:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 02:49:44 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 02:49:44 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 02:51:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 02:51:39 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 02:51:39 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 03:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 03:16:26 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 03:16:26 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 03:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 03:22:47 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 03:22:47 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 04:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 04:00:38 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 04:00:38 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 04:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 04:54:39 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 04:54:39 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 05:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 05:41:17 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 05:41:17 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 07:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 07:07:59 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 07:07:59 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 08:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 08:06:07 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 08:06:07 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 09:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 09:53:56 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 09:53:56 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 10:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 10:31:05 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 10:31:05 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 11:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 11:11:53 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 11:11:53 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 12:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 12:11:53 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 12:11:53 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 12:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 12:57:30 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 12:57:30 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 13:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 13:11:53 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 13:11:53 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 13:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 13:18:47 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 13:18:47 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 13:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 13:20:48 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 13:20:48 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 16:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 16:05:07 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 16:05:07 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 16:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 16:32:54 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 16:32:54 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 17:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 17:14:17 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 17:14:17 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 17:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 17:17:28 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 17:17:28 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 17:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 17:35:33 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 17:35:33 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 17:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 17:35:34 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 17:35:34 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(230): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 18:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 18:20:34 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 18:20:34 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 19:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 19:05:33 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 19:05:33 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 19:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 19:24:11 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 19:24:11 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 19:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 19:28:51 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 19:28:51 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Apps.php(273): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapcettar()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 19:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 19:28:51 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 19:28:51 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(281): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Apps.php(302): App\Models\EvaluasiModel->findCettarAspek()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 19:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 19:50:33 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 19:50:33 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 20:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 20:50:48 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 20:50:48 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 21:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 21:22:20 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 21:22:20 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 21:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 21:37:50 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 21:37:50 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 22:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 22:14:08 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 22:14:08 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 22:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 22:20:48 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 22:20:48 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 22:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 22:30:36 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 22:30:36 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(251): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 22:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 22:46:34 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 22:46:34 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 22:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 22:50:11 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 22:50:11 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 23:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 23:02:27 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 23:02:27 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 23:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 23:36:38 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 23:36:38 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 23:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 23:50:48 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 23:50:48 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-12-06 23:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-12-06 23:54:50 --> Error connecting to the database: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+CRITICAL - 2022-12-06 23:54:50 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

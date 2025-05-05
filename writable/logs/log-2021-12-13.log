@@ -1,0 +1,438 @@
+INFO - 2021-12-13 00:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 00:41:26 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 00:41:26 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 01:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 01:02:25 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 01:02:25 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 01:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 01:54:48 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 01:54:48 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 01:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 01:56:12 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 01:56:12 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 02:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 02:00:33 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 02:00:33 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 02:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 02:00:58 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 02:00:58 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 02:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 02:07:01 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 02:07:01 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 02:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 02:07:47 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 02:07:47 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 03:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 03:37:49 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 03:37:49 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(25): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->opd()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 04:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 04:02:11 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 04:02:11 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 04:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 04:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 10:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 10:50:47 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 10:50:47 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 11:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 11:08:22 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 11:08:22 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 13:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 13:31:23 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 13:31:23 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(225): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(54): App\Models\MasterModel->findMIndikator()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->detail()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 14:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 14:35:37 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 14:35:37 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/MasterModel.php(27): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Read.php(39): App\Models\MasterModel->getMUnit()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Read->kab()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 19:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 19:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 19:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:25:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:25:32 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2021-12-13 22:25:32 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-12-13 22:27:54 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-12-13 22:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-12-13 22:27:56 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-12-13 22:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 22:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:34:37 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:34:37 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:36:48 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:36:48 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:37:00 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:37:00 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:38:37 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:38:37 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:40:05 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:40:05 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:40:08 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:40:08 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:46:55 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:46:55 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:47:39 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:47:39 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:47:40 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:47:40 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:50:24 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:50:24 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 22:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 22:50:26 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 22:50:26 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 23:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 23:15:55 --> Error connecting to the database: Unknown database 'sibekisar_apps'
+CRITICAL - 2021-12-13 23:15:55 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 23:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 23:41:43 --> Error connecting to the database: Connection refused
+CRITICAL - 2021-12-13 23:41:43 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 23:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2021-12-13 23:41:54 --> Error connecting to the database: Connection refused
+CRITICAL - 2021-12-13 23:41:54 --> Unable to connect to the database.
+#0 /app/system/Database/BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 /app/system/Database/BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query()
+#2 /app/app/Models/EvaluasiModel.php(236): CodeIgniter\Database\BaseBuilder->get()
+#3 /app/app/Controllers/Home.php(18): App\Models\EvaluasiModel->findCettar()
+#4 /app/system/CodeIgniter.php(936): App\Controllers\Home->index()
+#5 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#6 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#7 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2021-12-13 23:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-12-13 23:43:41 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-12-13 23:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-12-13 23:43:43 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-12-13 23:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-12-13 23:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

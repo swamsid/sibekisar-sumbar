@@ -1,0 +1,2 @@
+INFO - 2021-06-01 20:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-01 20:58:56 --> Session: Sessions is enabled, and one exists.Please don't $session->start();

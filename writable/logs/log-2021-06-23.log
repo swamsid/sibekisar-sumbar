@@ -1,0 +1,582 @@
+INFO - 2021-06-23 03:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 03:59:06 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 03:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 03:59:08 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 03:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 03:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 03:59:23 --> Class 'Mpdf\Mpdf' not found
+#0 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#1 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#2 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#3 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-06-23 04:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 04:28:28 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 04:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 04:28:31 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 04:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:32:35 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:33:02 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:33:10 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:34:12 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:34:30 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:34:57 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:35:24 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:35:25 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:38:46 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:38:49 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:39:37 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:39:40 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:40:19 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:40:59 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:40:59 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:41:21 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:41:23 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:41:48 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:41:50 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:41:50 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:42:30 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:42:31 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:42:35 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:43:02 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:43:04 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:43:04 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:43:12 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:43:12 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:44:29 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:44:48 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:44:54 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:44:55 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:45:39 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2021-06-23 04:47:26 --> Temporary files directory "/app/vendor/mpdf/mpdf/src/Config/../../tmp/mpdf" is not writable
+#0 /app/vendor/mpdf/mpdf/src/ServiceFactory.php(56): Mpdf\Cache->__construct()
+#1 /app/vendor/mpdf/mpdf/src/Mpdf.php(1063): Mpdf\ServiceFactory->getServices()
+#2 /app/app/Controllers/Apps.php(157): Mpdf\Mpdf->__construct()
+#3 /app/system/CodeIgniter.php(936): App\Controllers\Apps->cetak()
+#4 /app/system/CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController()
+#5 /app/system/CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest()
+#6 /app/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-06-23 04:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 04:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 05:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 06:52:36 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 06:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 06:52:39 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 06:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 06:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 07:02:35 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 07:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-06-23 07:03:23 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-06-23 07:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:04:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 07:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 10:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 20:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:10:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 21:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:26:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-06-23 23:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

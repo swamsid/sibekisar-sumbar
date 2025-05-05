@@ -1,0 +1,17 @@
+<IfModule authz_core_module>
+    Require all denied
+    <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|js)$">
+      Header set Access-Control-Allow-Origin "*"
+      </FilesMatch>
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+    <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|js)$">
+      Header set Access-Control-Allow-Origin "*"
+      </FilesMatch>
+</IfModule>
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|js)$">
+  Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>

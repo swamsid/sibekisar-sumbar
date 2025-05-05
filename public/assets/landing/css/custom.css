@@ -1,0 +1,112 @@
+.header-area .main-nav{
+    min-height: 65px;
+}
+
+.header-area .main-nav .nav li.active a{
+    color: #008056;
+}
+
+.sub-menu{
+    background: white;
+    box-shadow: 0px 0px 20px #555;
+    border-radius: 5px;
+    border: 1px solid #eee;
+    margin-top: -10px;
+    padding: 10px 10px;
+    width: 78%;
+    position: absolute;
+    right: 15px;
+    display: none;
+}
+
+.sub-menu .konteks-title{
+    font-size: 10pt;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.sub-menu .konteks-title .title{
+    padding: 5px 15px 5px 15px;
+}
+
+.sub-menu .konteks-title .title.active{
+    background: #008056;
+    color: white;
+    border-radius: 5px;
+}
+
+.sub-menu .konteks-indikator{
+    margin-top: 20px;
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+    width: 5px;
+}
+  
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #aaa;
+    border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.sub-menu .konteks-indikator .loading{
+    text-align: center;
+    font-size: 9pt;
+}
+
+.sub-menu .konteks-indikator .indikator{
+    font-size: 9pt;
+    display: flex;
+    gap: 10px;
+    padding: 10px 10px 10px 38px;
+    border-top: 1px solid #eee;
+    /* border-bottom: 1px solid #eee; */
+    align-items: top;
+}
+
+.sub-menu .konteks-indikator .indikator:not(.aspek){
+    cursor: pointer;
+}
+
+.sub-menu .konteks-indikator .indikator:not(.aspek):hover{
+    color: #008056;
+}
+
+.sub-menu .konteks-indikator .indikator.aspek{
+    background: #f5f5f5;
+    padding-left: 10px;
+    font-weight: bold;
+    position: sticky;
+    top: 0px;
+}
+
+.sub-menu .konteks-indikator .indikator.aspek:not(:first-child){
+    margin-top: 20px;
+}
+
+.sub-menu .konteks-indikator .indikator .indikator-icon{
+    width: 5%;
+    text-align: center;
+    align-items: top;
+}
+
+.sub-menu .konteks-indikator .indikator .indikator-title{
+    align-items: top;
+}
+
+@media (max-width: 1320px) {
+    .welcome-area .header-text .left-text {
+        margin-top: 47%;
+    }
+}

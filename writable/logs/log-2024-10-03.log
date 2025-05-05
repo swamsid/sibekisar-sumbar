@@ -1,0 +1,50 @@
+INFO - 2024-10-03 21:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-03 21:46:24 --> Error connecting to the database: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+CRITICAL - 2024-10-03 21:46:24 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_perio...', Array, false)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(269): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Home.php(17): App\Models\MasterModel->getPeriode()
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2024-10-03 21:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-10-03 21:46:49 --> Error connecting to the database: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+CRITICAL - 2024-10-03 21:46:49 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(618): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_perio...', Array, false)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(269): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Home.php(17): App\Models\MasterModel->getPeriode()
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Home->index()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2024-10-03 21:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-03 21:49:25 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2024-10-03 21:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-10-03 21:49:31 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2024-10-03 21:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 21:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 22:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-03 22:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,65 @@
+CRITICAL - 2025-03-30 02:28:11 --> Constant FILTER_SANITIZE_STRING is deprecated
+#0 C:\laragon\www\project\sibekisar\system\Router\RouteCollection.php(1359): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Constant FILTER...', 'C:\\laragon\\www\\...', 1359)
+#1 C:\laragon\www\project\sibekisar\system\Router\RouteCollection.php(608): CodeIgniter\Router\RouteCollection->create('*', 'BaseController(...', Object(Closure), NULL)
+#2 C:\laragon\www\project\sibekisar\system\Config\Routes.php(27): CodeIgniter\Router\RouteCollection->add('BaseController(...', Object(Closure))
+#3 C:\laragon\www\project\sibekisar\app\Config\Routes.php(12): require('C:\\laragon\\www\\...')
+#4 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(803): require('C:\\laragon\\www\\...')
+#5 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#6 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\project\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-03-30 02:28:11 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at C:\laragon\www\project\sibekisar\app\Config\Events.php:35) in C:\laragon\www\project\sibekisar\system\Debug\Exceptions.php:137
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', 'C:\\laragon\\www\\...', 137)
+#1 C:\laragon\www\project\sibekisar\system\Debug\Exceptions.php(137): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2025-03-30 02:28:46 --> Constant FILTER_SANITIZE_STRING is deprecated
+#0 C:\laragon\www\project\sibekisar\system\Router\RouteCollection.php(1359): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Constant FILTER...', 'C:\\laragon\\www\\...', 1359)
+#1 C:\laragon\www\project\sibekisar\system\Router\RouteCollection.php(608): CodeIgniter\Router\RouteCollection->create('*', 'BaseController(...', Object(Closure), NULL)
+#2 C:\laragon\www\project\sibekisar\system\Config\Routes.php(27): CodeIgniter\Router\RouteCollection->add('BaseController(...', Object(Closure))
+#3 C:\laragon\www\project\sibekisar\app\Config\Routes.php(12): require('C:\\laragon\\www\\...')
+#4 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(803): require('C:\\laragon\\www\\...')
+#5 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#6 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\project\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-03-30 02:28:46 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at C:\laragon\www\project\sibekisar\app\Config\Events.php:35) in C:\laragon\www\project\sibekisar\system\Debug\Exceptions.php:137
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', 'C:\\laragon\\www\\...', 137)
+#1 C:\laragon\www\project\sibekisar\system\Debug\Exceptions.php(137): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2025-03-30 02:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-03-30 02:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-03-30 02:30:16 --> Constant FILTER_SANITIZE_STRING is deprecated
+#0 C:\laragon\www\project\sibekisar\system\Router\RouteCollection.php(1359): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Constant FILTER...', 'C:\\laragon\\www\\...', 1359)
+#1 C:\laragon\www\project\sibekisar\system\Router\RouteCollection.php(608): CodeIgniter\Router\RouteCollection->create('*', 'BaseController(...', Object(Closure), NULL)
+#2 C:\laragon\www\project\sibekisar\system\Config\Routes.php(27): CodeIgniter\Router\RouteCollection->add('BaseController(...', Object(Closure))
+#3 C:\laragon\www\project\sibekisar\app\Config\Routes.php(12): require('C:\\laragon\\www\\...')
+#4 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(803): require('C:\\laragon\\www\\...')
+#5 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#6 C:\laragon\www\project\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\project\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2025-03-30 02:30:16 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at C:\laragon\www\project\sibekisar\app\Config\Events.php:35) in C:\laragon\www\project\sibekisar\system\Debug\Exceptions.php:137
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', 'C:\\laragon\\www\\...', 137)
+#1 C:\laragon\www\project\sibekisar\system\Debug\Exceptions.php(137): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

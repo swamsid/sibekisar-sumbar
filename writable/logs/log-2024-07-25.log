@@ -1,0 +1,819 @@
+INFO - 2024-07-25 21:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:31:01 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:31:41 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:32:11 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:32:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 21:36:07 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Model.php(615): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Model.php(834): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): CodeIgniter\Model->__call('getMUnit', Array)
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2024-07-25 21:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:03 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 1' at line 3 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_unit`...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_unit`...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_unit`...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_unit`...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 1' at line 3 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_unit`...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_unit`...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_unit`...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_unit`...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 1' at line 3 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_unit`...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_unit`...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_unit`...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_unit`...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 1' at line 3 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_unit`...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_unit`...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_unit`...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_unit`...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(29): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 1' at line 3 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(30): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:37:56 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 1' at line 3 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(30): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:38:09 --> mysqli_sql_exception: Unknown column 'anjing' in 'where clause' in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\MasterModel.php(30): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(28): App\Models\MasterModel->getMUnit(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->opd('87f5ee', 'rsud-karsa-husa...')
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-07-25 21:38:14 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Autoloader\Autoloader.php(265): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Mast...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Mast...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(12): spl_autoload_call('App\\Models\\Mast...')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(908): App\Controllers\Read->__construct()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(422): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2024-07-25 21:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:44:42 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:47:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "" and `vw_rekap_...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-07-25 21:51:01 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\xampp\\htdocs...', 431, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(431): count('okee')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2024-07-25 21:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `vw_rekap_by_aspek`.`id_unit` = '95'
+O...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(347): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(415): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `id_aspek` = 'C0202401'
+ORDER BY `vw_r...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(346): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(428): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `id_aspek` = 'C0202402'
+ORDER BY `vw_r...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(346): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(428): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `id_aspek` = 'C0202403'
+ORDER BY `vw_r...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(346): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(428): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `id_aspek` = 'C0202404'
+ORDER BY `vw_r...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(346): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(428): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `id_aspek` = 'C0202405'
+ORDER BY `vw_r...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(346): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(428): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2024-07-25 21:56:49 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`:m_unit`.`kategori_unit` != asas:
+AND `id_aspek` = 'C0202406'
+ORDER BY `vw_r...' at line 6 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `vw_reka...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `vw_reka...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `vw_reka...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `vw_reka...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(346): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(428): App\Models\EvaluasiModel->findCettarAspek(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridrekapaspek()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 21:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 21:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:00:20 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:00:36 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:01:11 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:01:43 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:01:45 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:02:05 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:02:11 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:03:59 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:04:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:04:46 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:04:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:05:41 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-07-25 22:10:21 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN `vw_rekap_by_spirit` ON `vw_rekap_by_spirit`.`tahun` = "3" and `vw_rekap...' at line 5 in C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT `m_aspek...')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `m_aspek...')
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `m_aspek...')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT `m_aspek...', Array, false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Models\EvaluasiModel.php(427): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(156): App\Models\EvaluasiModel->findDetailNilaiBaru(Array)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->gridnilai()
+#7 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#8 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2024-07-25 22:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-25 22:14:27 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2024-07-25 22:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-07-25 22:14:30 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2024-07-25 22:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-07-25 22:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

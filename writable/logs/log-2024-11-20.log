@@ -1,0 +1,153 @@
+INFO - 2024-11-20 00:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 00:35:47 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->cetakLHE()
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2024-11-20 00:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 00:36:00 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->cetakLHE()
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2024-11-20 00:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 00:37:28 --> Undefined index: kode_akses
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(55): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->cetakLHE()
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2024-11-20 00:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 00:41:19 --> Undefined variable: pdf
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Read.php(213): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 213, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Read->cetakLHE()
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Read))
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2024-11-20 00:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 00:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 02:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-20 20:20:57 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2024-11-20 20:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-11-20 20:21:02 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2024-11-20 20:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 20:22:37 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'C:\\xampp\\htdocs...', 351, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(351): number_format('97,14', 0)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(297): App\Controllers\Apps->is_decimal('97,14')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->cetak('21', '3', 'opd')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2024-11-20 20:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 20:22:38 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'C:\\xampp\\htdocs...', 351, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(351): number_format('97,14', 0)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(297): App\Controllers\Apps->is_decimal('97,14')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->cetak('21', '3', 'opd')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2024-11-20 20:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 20:22:57 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'C:\\xampp\\htdocs...', 351, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(351): number_format('97,14', 0)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(296): App\Controllers\Apps->is_decimal('97,14')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->cetak('21', '3', 'opd')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2024-11-20 20:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 20:46:11 --> number_format() expects parameter 1 to be float, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'number_format()...', 'C:\\xampp\\htdocs...', 353, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(353): number_format(',', 0)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(298): App\Controllers\Apps->is_decimal(',')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->cetak('21', '3', 'opd')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2024-11-20 20:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-20 20:46:12 --> number_format() expects parameter 1 to be float, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'number_format()...', 'C:\\xampp\\htdocs...', 353, Array)
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(353): number_format(',', 0)
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\app\Controllers\Apps.php(298): App\Controllers\Apps->is_decimal(',')
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(936): App\Controllers\Apps->cetak('21', '3', 'opd')
+#4 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Apps))
+#5 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2024-11-20 20:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-20 20:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

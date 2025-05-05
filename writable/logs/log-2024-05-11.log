@@ -1,0 +1,6 @@
+CRITICAL - 2024-05-11 13:22:29 --> The framework needs the following extension(s) installed and loaded: {0}.
+#0 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl, mbstring')
+#1 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\CodeIgniter.php(172): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\system\bootstrap.php(159): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\01_Aplikasi_Biro\sibekisar\public\index.php(36): require('C:\\xampp\\htdocs...')
+#4 {main}

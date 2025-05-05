@@ -1,0 +1,106 @@
+/* Cards */
+
+.card {
+  border: 0;
+  @include border-radius(2px);
+  .card-body {
+    padding: $card-padding-y $card-padding-x;
+    + .card-body {
+      padding-top: 0;
+    }
+  }
+  &.card-outline-success {
+		border: 1px solid theme-color("success");
+	}
+	&.card-outline-primary {
+		border: 1px solid theme-color("primary");
+	}
+	&.card-outline-warning {
+		border: 1px solid theme-color("warning");
+	}
+	&.card-outline-danger {
+		border: 1px solid theme-color("danger");
+  }
+  &.card-outline-info {
+		border: 1px solid theme-color("info");
+	}
+	&.card-rounded{
+		@include border-radius(5px);
+	}
+
+  &.card-faded {
+    background: #b5b0b2;
+    border-color: #b5b0b2;
+  }
+  &.card-circle-progress {
+    color: $white;
+    text-align: center;
+  }
+  &.card-profile-preview {
+    .card-img-overlay {
+      height: 125px;
+      position: absolute;
+      top: 20px;
+    }
+    .profile-preview-rounded {
+      img {
+        width: 65px;
+        height: 65px;
+        border-radius: 100%;
+        border: 4px solid color(white);
+        margin-right: .5rem;
+        .rtl & {
+          margin-right: auto;
+          margin-left: .5rem;
+        }
+      }
+    }
+    .profile-status {
+      border-right: 1px solid $border-color;
+      &:last-child {
+        border-right: 0;
+      }
+    }
+  }
+  &.card-data-traffic {
+    .float-chart-container {
+      min-height: 118px;
+      height: 118px;
+      .float-chart {
+        height: 118px;
+      }
+    }
+  }
+  &.card-statistics {
+    .card-body {
+      @include display-flex;
+      @include flex-direction(column);
+      @include justify-content(center);
+      text-align: center;
+      .icon-wrapper {
+        width: 76px;
+        height: 76px;
+        background: rgba(color(black), .2);
+        border-radius: 100%;
+        @include display-flex;
+        @include align-items(center);
+        @include align-self(center);
+        @include justify-content(center);
+        position: relative;
+        font-size: 1.875rem;
+        .badge {
+          position: absolute;
+          bottom: -4px;
+          right: -14px;
+          font-size: 1.25rem;
+        }
+      }
+    }
+  }
+}
+
+@each $color, $value in $theme-colors {
+  .card-inverse-#{$color} {
+    @include card-inverse-variant(rgba(theme-color($color), .2), theme-color-level($color, 1), theme-color-level($color, 3));
+  }
+}

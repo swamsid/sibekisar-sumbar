@@ -1,0 +1,6 @@
+INFO - 2021-03-01 00:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-03-01 00:49:55 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-03-01 00:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-03-01 00:57:50 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
+INFO - 2021-03-01 00:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2021-03-01 00:57:52 --> Session: Sessions is enabled, and one exists.Please don't $session->start();
